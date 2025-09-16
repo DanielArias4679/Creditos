@@ -131,7 +131,7 @@ const Normativa = () => {
                 whileTap={{ scale: 0.95 }}
               >
                 <a
-                  href="#"
+                  href="\RESOL-2024-6410-E-GDEMZA-DGE.pdf"
                   className="inline-flex items-center gap-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white px-8 py-4 rounded-2xl font-bold text-lg shadow-xl hover:shadow-2xl transition-all"
                 >
                   <Download className="w-6 h-6" />
