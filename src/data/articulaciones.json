@@ -1,0 +1,3167 @@
+[
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4111 – ING. PABLO NOGUÉS",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9030 DEL BICENTENARIO",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "Punta Mogotes 791, M5501 Godoy Cruz",
+      "web": "https://institutodelbicentenario-infd.mendoza.edu.ar/sitio/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4111 – ING. PABLO NOGUÉS",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4111 – ING. PABLO NOGUÉS",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4111 – ING. PABLO NOGUÉS",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4111 – ING. PABLO NOGUÉS",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4111 – ING. PABLO NOGUÉS",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN METALMECÁNICA",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4111 – ING. PABLO NOGUÉS",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4111 – ING. PABLO NOGUÉS",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "PT113 EDISON",
+      "tecnicatura": "TEC SUP EN ROBÓTICA",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://superior.fundacionedison.org.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4111 – ING. PABLO NOGUÉS",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4077 – ARQ. MANUEL VÍCTOR CIVIT",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9030 DEL BICENTENARIO",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "Punta Mogotes 791, M5501 Godoy Cruz",
+      "web": "https://institutodelbicentenario-infd.mendoza.edu.ar/sitio/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4077 – ARQ. MANUEL VÍCTOR CIVIT",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4002 – FRAY LUIS BELTRÁN",
+    "orientacion": "Químico",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN MINERÍA",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4002 – FRAY LUIS BELTRÁN",
+    "orientacion": "Químico",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4132 – QUÍMICOS ARGENTINOS",
+    "orientacion": "Industrias de Procesos",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN PETRÓLEO Y GAS",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4132 – QUÍMICOS ARGENTINOS",
+    "orientacion": "Industrias de Procesos",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4013 – DR. BERNARDO A. HOUSSAY",
+    "orientacion": "Farmacia y Laboratorio",
+    "resultado": {
+      "ies": "9026 PATRIA GRANDE",
+      "tecnicatura": "TEC SUP EN LABORATORIO DE ANÁLISIS CLÍNICOS",
+      "direccion": "Almte. Brown, M5539 Las Heras",
+      "web": "https://ies9026-infd.mendoza.edu.ar/sitio/",
+      "color": "text-rose-500",
+      "neon": "hover:text-rose-400 hover:drop-shadow-[0_0_8px_rgba(244,63,94,0.8)]",
+      "icono": "HeartPulse"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "4013 – DR. BERNARDO A. HOUSSAY",
+    "orientacion": "Farmacia y Laboratorio",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "P130 - Inmaculado Corazon de Maria",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9030 DEL BICENTENARIO",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "Punta Mogotes 791, M5501 Godoy Cruz",
+      "web": "https://institutodelbicentenario-infd.mendoza.edu.ar/sitio/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Capital",
+    "escuela": "P130 - Inmaculado Corazon de Maria",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4020 – ING. GABRIEL DEL MAZO",
+    "orientacion": "Automotriz",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN METALMECÁNICA",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4020 – ING. GABRIEL DEL MAZO",
+    "orientacion": "Automotriz",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4020 – ING. GABRIEL DEL MAZO",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4020 – ING. GABRIEL DEL MAZO",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "9008 MANUEL BELGRANO",
+      "tecnicatura": "TEC SUP EN REDES Y CIBERSEGURIDAD",
+      "direccion": "Roque Sáenz Peña 1271, M5501 Godoy Cruz",
+      "web": "https://www.iesmb.edu.ar/bel/",
+      "color": "text-slate-500",
+      "neon": "hover:text-slate-400 hover:drop-shadow-[0_0_8px_rgba(100,116,139,0.8)]",
+      "icono": "Shield"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4020 – ING. GABRIEL DEL MAZO",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "PT113 EDISON",
+      "tecnicatura": "TEC SUP EN ROBÓTICA",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://superior.fundacionedison.org.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4030 – PROF. ÁNGEL CERVERA",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9030 DEL BICENTENARIO",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "Punta Mogotes 791, M5501 Godoy Cruz",
+      "web": "https://institutodelbicentenario-infd.mendoza.edu.ar/sitio/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4030 – PROF. ÁNGEL CERVERA",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4036 – RAÚL SCALABRINI ORTIZ",
+    "orientacion": "Alimentos (ETP)",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4109 – ING. ÁLVAREZ CONDARCO",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9030 DEL BICENTENARIO",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "Punta Mogotes 791, M5501 Godoy Cruz",
+      "web": "https://institutodelbicentenario-infd.mendoza.edu.ar/sitio/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4109 – ING. ÁLVAREZ CONDARCO",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4109 – ING. ÁLVAREZ CONDARCO",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN METALMECÁNICA",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4109 – ING. ÁLVAREZ CONDARCO",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4109 – ING. ÁLVAREZ CONDARCO",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "PT113 EDISON",
+      "tecnicatura": "TEC SUP EN ROBÓTICA",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://superior.fundacionedison.org.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Godoy Cruz",
+    "escuela": "4109 – ING. ÁLVAREZ CONDARCO",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4007 - MIGUEL AMADO POUGET",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9013 ISTEEC",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Av. Belgrano 502-578, M5501 Ciudad",
+      "web": "https://isteec.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4007 - MIGUEL AMADO POUGET",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4007 - MIGUEL AMADO POUGET",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "PT021 DON BOSCO",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://tecsupdonbosco.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4025 – LOS CORRALITOS",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9013 ISTEEC",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Av. Belgrano 502-578, M5501 Ciudad",
+      "web": "https://isteec.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4025 – LOS CORRALITOS",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4025 – LOS CORRALITOS",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "PT021 DON BOSCO",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://tecsupdonbosco.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4121 – TÉCNICOS MENDOCINOS",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9030 DEL BICENTENARIO",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "Punta Mogotes 791, M5501 Godoy Cruz",
+      "web": "https://institutodelbicentenario-infd.mendoza.edu.ar/sitio/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4121 – TÉCNICOS MENDOCINOS",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4121 – TÉCNICOS MENDOCINOS",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN METALMECÁNICA",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4121 – TÉCNICOS MENDOCINOS",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4121 – TÉCNICOS MENDOCINOS",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "PT113 EDISON",
+      "tecnicatura": "TEC SUP EN ROBÓTICA",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://superior.fundacionedison.org.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4118 – SAN JOSÉ",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9030 DEL BICENTENARIO",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "Punta Mogotes 791, M5501 Godoy Cruz",
+      "web": "https://institutodelbicentenario-infd.mendoza.edu.ar/sitio/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4118 – SAN JOSÉ",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4118 – SAN JOSÉ",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4118 – SAN JOSÉ",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Guaymallén",
+    "escuela": "4118 – SAN JOSÉ",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "PT113 EDISON",
+      "tecnicatura": "TEC SUP EN ROBÓTICA",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://superior.fundacionedison.org.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Las Heras",
+    "escuela": "4011 - CAPITÁN DANIEL F. MANZOTTI",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Las Heras",
+    "escuela": "4011 - CAPITÁN DANIEL F. MANZOTTI",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Las Heras",
+    "escuela": "4011 - CAPITÁN DANIEL F. MANZOTTI",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "9008 MANUEL BELGRANO",
+      "tecnicatura": "TEC SUP EN REDES Y CIBERSEGURIDAD",
+      "direccion": "Roque Sáenz Peña 1271, M5501 Godoy Cruz",
+      "web": "https://www.iesmb.edu.ar/bel/",
+      "color": "text-slate-500",
+      "neon": "hover:text-slate-400 hover:drop-shadow-[0_0_8px_rgba(100,116,139,0.8)]",
+      "icono": "Shield"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Las Heras",
+    "escuela": "4011 - CAPITÁN DANIEL F. MANZOTTI",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "PT113 EDISON",
+      "tecnicatura": "TEC SUP EN ROBÓTICA",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://superior.fundacionedison.org.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Las Heras",
+    "escuela": "4019 – CAP. JOSÉ D. VÁZQUEZ",
+    "orientacion": "Químico",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN MINERÍA",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Las Heras",
+    "escuela": "4029 – GRAL. JOSÉ DE SAN MARTÍN",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9030 DEL BICENTENARIO",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "Punta Mogotes 791, M5501 Godoy Cruz",
+      "web": "https://institutodelbicentenario-infd.mendoza.edu.ar/sitio/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Las Heras",
+    "escuela": "4037 – HOMERO MANZI",
+    "orientacion": "Químico",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN MINERÍA",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Las Heras",
+    "escuela": "4112 – PROF. ANTONIO DOUGLAS GURGUI",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Las Heras",
+    "escuela": "4112 – PROF. ANTONIO DOUGLAS GURGUI",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN METALMECÁNICA",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Las Heras",
+    "escuela": "4112 – PROF. ANTONIO DOUGLAS GURGUI",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Las Heras",
+    "escuela": "4112 – PROF. ANTONIO DOUGLAS GURGUI",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "PT113 EDISON",
+      "tecnicatura": "TEC SUP EN ROBÓTICA",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://superior.fundacionedison.org.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Las Heras",
+    "escuela": "4112 – PROF. ANTONIO DOUGLAS GURGUI",
+    "orientacion": "Hidráulico",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN GESTIÓN INTEGRAL DE RECURSOS HÍDRICOS",
+      "direccion": "Gestión Pública - A DISTANCIA",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4003 – EMILIO CIVIT",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4003 – EMILIO CIVIT",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4003 – EMILIO CIVIT",
+    "orientacion": "Industrias de Procesos y Petróleo",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN PETRÓLEO Y GAS",
+      "direccion": "Sede Mendoza y Sede Rivadavia",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4003 – EMILIO CIVIT",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4003 – EMILIO CIVIT",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "PT113 EDISON",
+      "tecnicatura": "TEC SUP EN ROBÓTICA",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://superior.fundacionedison.org.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4039 – CRUZ DE PIEDRA",
+    "orientacion": "Madera y Mueble",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4053 – DR. HORACIO ROMÁN MARTÍNEZ LEÁNEZ",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4053 – DR. HORACIO ROMÁN MARTÍNEZ LEÁNEZ",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "PT113 EDISON",
+      "tecnicatura": "TEC SUP EN ROBÓTICA",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://superior.fundacionedison.org.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4062 - PROF. JUANA B. ALBORNOZ DE CORTÉS",
+    "orientacion": "Industrias de Procesos",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN PETRÓLEO Y GAS",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4108 – ING. GUILLERMO VILLANUEVA",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4108 – ING. GUILLERMO VILLANUEVA",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN METALMECÁNICA",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4108 – ING. GUILLERMO VILLANUEVA",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4108 – ING. GUILLERMO VILLANUEVA",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "PT113 EDISON",
+      "tecnicatura": "TEC SUP EN ROBÓTICA",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://superior.fundacionedison.org.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4108 – ING. GUILLERMO VILLANUEVA",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4108 – ING. GUILLERMO VILLANUEVA",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "PT113 EDISON",
+      "tecnicatura": "TEC SUP EN ROBÓTICA",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://superior.fundacionedison.org.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "S021 - DON BOSCO",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "PT021 DON BOSCO",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://tecsupdonbosco.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4166 – FERNANDO LORENZO",
+    "orientacion": "Farmacia y Laboratorio",
+    "resultado": {
+      "ies": "9026 PATRIA GRANDE",
+      "tecnicatura": "TEC SUP EN LABORATORIO DE ANÁLISIS CLÍNICOS",
+      "direccion": "Almte. Brown, M5539 Las Heras",
+      "web": "https://ies9026-infd.mendoza.edu.ar/sitio/",
+      "color": "text-rose-500",
+      "neon": "hover:text-rose-400 hover:drop-shadow-[0_0_8px_rgba(244,63,94,0.8)]",
+      "icono": "HeartPulse"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4188 – PADRE SERGIO IACONO",
+    "orientacion": "Alimentos (ETP)",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4188 – PADRE SERGIO IACONO",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "PT021 DON BOSCO",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://tecsupdonbosco.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4255 – ALBERTO VICTORIO ZUCCARDI",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "PT021 DON BOSCO",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://tecsupdonbosco.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Maipú",
+    "escuela": "4255 – ALBERTO VICTORIO ZUCCARDI",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4022 – GRAL. ENRIQUE MOSCONI",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4022 – GRAL. ENRIQUE MOSCONI",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4022 – GRAL. ENRIQUE MOSCONI",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9029 LUJÁN",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "Sede Marianetti",
+      "web": "https://www.ies9029.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4038 – ARTURO JAURETCHE",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9029 LUJÁN",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Sede Ugarteche",
+      "web": "https://www.ies9029.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4038 – ARTURO JAURETCHE",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9029 LUJÁN",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "Sede Marianetti",
+      "web": "https://www.ies9029.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4046 – ING. JULIO KRAUSE",
+    "orientacion": "Industrias de Procesos",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN PETRÓLEO Y GAS",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4046 – ING. JULIO KRAUSE",
+    "orientacion": "Industrias de Procesos",
+    "resultado": {
+      "ies": "9029 LUJÁN",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "Sede Marianetti",
+      "web": "https://www.ies9029.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4104 – ING. CARLOS FADER",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9030 DEL BICENTENARIO",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "Punta Mogotes 791, M5501 Godoy Cruz",
+      "web": "https://institutodelbicentenario-infd.mendoza.edu.ar/sitio/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4104 – ING. CARLOS FADER",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9029 LUJÁN",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "Sede Marianetti",
+      "web": "https://www.ies9029.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4104 – ING. CARLOS FADER",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4104 – ING. CARLOS FADER",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN METALMECÁNICA",
+      "direccion": "San Juan 421, M5500 Mendoza",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4104 – ING. CARLOS FADER",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9023 CESIT",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Dionisio Herrero 303, M5515 Maipú",
+      "web": "https://ies9023-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4104 – ING. CARLOS FADER",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "PT113 EDISON",
+      "tecnicatura": "TEC SUP EN ROBÓTICA",
+      "direccion": "Gestión Privada - cuota mensual",
+      "web": "https://superior.fundacionedison.org.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Gran Mendoza",
+    "departamento": "Luján de Cuyo",
+    "escuela": "4104 – ING. CARLOS FADER",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9029 LUJÁN",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "Sede Marianetti",
+      "web": "https://www.ies9029.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4005 – JOSÉFA CAPDEVILA",
+    "orientacion": "Alimentos (ETP)",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Sede Arboit",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4005 – JOSÉFA CAPDEVILA",
+    "orientacion": "Alimentos (ETP)",
+    "resultado": {
+      "ies": "9001 SAN MARTÍN",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "GJE 100, Chubut, M5570 San Martín",
+      "web": "https://ens9001-infd.mendoza.edu.ar/sitio/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4005 – JOSÉFA CAPDEVILA",
+    "orientacion": "Indumentaria Textil",
+    "resultado": {
+      "ies": "9001 SAN MARTÍN",
+      "tecnicatura": "TEC SUP DE DISEÑO DE INDUMENTARIA, TEXTIL Y ACCESORIOS",
+      "direccion": "GJE 100, Chubut, M5570 San Martín",
+      "web": "https://ens9001-infd.mendoza.edu.ar/sitio/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4027 – MOISÉS JULIO CHADE",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Arboit",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4027 – MOISÉS JULIO CHADE",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Sede Arboit",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4027 – MOISÉS JULIO CHADE",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9001 SAN MARTÍN",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "GJE 100, Chubut, M5570 San Martín",
+      "web": "https://ens9001-infd.mendoza.edu.ar/sitio/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4064 – INTENDENTE JUAN KAIRUZ",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9006 PROF. TOLOSA",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "San Martin 562, M5577 Rivadavia",
+      "web": "https://ens9006-infd.mendoza.edu.ar/sitio/author/tolosasuperior/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4064 – INTENDENTE JUAN KAIRUZ",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9001 SAN MARTÍN",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "GJE 100, Chubut, M5570 San Martín",
+      "web": "https://ens9001-infd.mendoza.edu.ar/sitio/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4120 – TÉCNICA JOSÉ DE SAN MARTÍN",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9006 PROF. TOLOSA",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "San Martin 562, M5577 Rivadavia",
+      "web": "https://ens9006-infd.mendoza.edu.ar/sitio/author/tolosasuperior/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4120 – TÉCNICA JOSÉ DE SAN MARTÍN",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9001 SAN MARTÍN",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "GJE 100, Chubut, M5570 San Martín",
+      "web": "https://ens9001-infd.mendoza.edu.ar/sitio/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4120 – TÉCNICA JOSÉ DE SAN MARTÍN",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "Sede Rivadavia",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4120 – TÉCNICA JOSÉ DE SAN MARTÍN",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Barrio 6to CEC Manzanares S/N – Junín",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4120 – TÉCNICA JOSÉ DE SAN MARTÍN",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9001 SAN MARTÍN",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "GJE 100, Chubut, M5570 San Martín",
+      "web": "https://ens9001-infd.mendoza.edu.ar/sitio/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4120 – TÉCNICA JOSÉ DE SAN MARTÍN",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Barrio 6to CEC Manzanares S/N – Junín",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4120 – TÉCNICA JOSÉ DE SAN MARTÍN",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "9001 SAN MARTÍN",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "GJE 100, Chubut, M5570 San Martín",
+      "web": "https://ens9001-infd.mendoza.edu.ar/sitio/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4145 – ARMANDO SERGIO FIGUEROA",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Arboit",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4145 – ARMANDO SERGIO FIGUEROA",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Sede Arboit",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4213 – HUMBERTO ANTONIO VALESTRA",
+    "orientacion": "Industria de Procesos",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN FARMACIA",
+      "direccion": "Centro Universitario – Junín",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "San Martín",
+    "escuela": "4213 – HUMBERTO ANTONIO VALESTRA",
+    "orientacion": "Industria de Procesos",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN PETRÓLEO Y GAS",
+      "direccion": "Sede Rivadavia",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Rivadavia",
+    "escuela": "4119 – SANTA MARÍA DE ORO",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9006 PROF. TOLOSA",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "San Martin 562, M5577 Rivadavia",
+      "web": "https://ens9006-infd.mendoza.edu.ar/sitio/author/tolosasuperior/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Rivadavia",
+    "escuela": "4119 – SANTA MARÍA DE ORO",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9006 PROF. TOLOSA",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martin 562, M5577 Rivadavia",
+      "web": "https://ens9006-infd.mendoza.edu.ar/sitio/author/tolosasuperior/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Rivadavia",
+    "escuela": "4119 – SANTA MARÍA DE ORO",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "Sede Rivadavia",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Rivadavia",
+    "escuela": "4119 – SANTA MARÍA DE ORO",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Barrio 6to CEC Manzanares S/N – Junín",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Rivadavia",
+    "escuela": "4119 – SANTA MARÍA DE ORO",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9006 PROF. TOLOSA",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martin 562, M5577 Rivadavia",
+      "web": "https://ens9006-infd.mendoza.edu.ar/sitio/author/tolosasuperior/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Rivadavia",
+    "escuela": "4119 – SANTA MARÍA DE ORO",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Barrio 6to CEC Manzanares S/N – Junín",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Rivadavia",
+    "escuela": "4119 – SANTA MARÍA DE ORO",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "9006 PROF. TOLOSA",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martin 562, M5577 Rivadavia",
+      "web": "https://ens9006-infd.mendoza.edu.ar/sitio/author/tolosasuperior/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4016 – ING. ANTONIO MARCELO ARBOIT",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "Sede Rivadavia",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4016 – ING. ANTONIO MARCELO ARBOIT",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Barrio 6to CEC Manzanares S/N – Junín",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4016 – ING. ANTONIO MARCELO ARBOIT",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9006 PROF. TOLOSA",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martin 562, M5577 Rivadavia",
+      "web": "https://ens9006-infd.mendoza.edu.ar/sitio/author/tolosasuperior/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4016 – ING. ANTONIO MARCELO ARBOIT",
+    "orientacion": "Industria de Procesos",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN FARMACIA",
+      "direccion": "Centro Universitario – Junín",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4016 – ING. ANTONIO MARCELO ARBOIT",
+    "orientacion": "Industria de Procesos",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN PETRÓLEO Y GAS",
+      "direccion": "Sede Rivadavia",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4016 – ING. ANTONIO MARCELO ARBOIT",
+    "orientacion": "Industria de Procesos",
+    "resultado": {
+      "ies": "9006 PROF. TOLOSA",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martin 562, M5577 Rivadavia",
+      "web": "https://ens9006-infd.mendoza.edu.ar/sitio/author/tolosasuperior/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4055 – PRESBÍTERO CONSTANTINO SPAGNOLO",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Barrio 6to CEC Manzanares S/N – Junín",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4055 – PRESBÍTERO CONSTANTINO SPAGNOLO",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "9006 PROF. TOLOSA",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martin 562, M5577 Rivadavia",
+      "web": "https://ens9006-infd.mendoza.edu.ar/sitio/author/tolosasuperior/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4110 – PRESIDENTE NICOLÁS AVELLANEDA",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9019 INSUTEC",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "Sede Rivadavia",
+      "web": "https://www.insutec.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4110 – PRESIDENTE NICOLÁS AVELLANEDA",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Barrio 6to CEC Manzanares S/N – Junín",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4110 – PRESIDENTE NICOLÁS AVELLANEDA",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9006 PROF. TOLOSA",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martin 562, M5577 Rivadavia",
+      "web": "https://ens9006-infd.mendoza.edu.ar/sitio/author/tolosasuperior/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4110 – PRESIDENTE NICOLÁS AVELLANEDA",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "9006 PROF. TOLOSA",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martin 562, M5577 Rivadavia",
+      "web": "https://ens9006-infd.mendoza.edu.ar/sitio/author/tolosasuperior/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Junín",
+    "escuela": "4110 – PRESIDENTE NICOLÁS AVELLANEDA",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "9021 JUNÍN",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Barrio 6to CEC Manzanares S/N – Junín",
+      "web": "https://ies9021.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tunuyán",
+    "escuela": "4035 – JULIA SILVA DE CEJAS",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tunuyán",
+    "escuela": "4035 – JULIA SILVA DE CEJAS",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tunuyán",
+    "escuela": "4107 – EJÉRCITO ARGENTINO",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tunuyán",
+    "escuela": "4107 – EJÉRCITO ARGENTINO",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tunuyán",
+    "escuela": "4107 – EJÉRCITO ARGENTINO",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tunuyán",
+    "escuela": "4203 – COLONIA LAS ROSAS",
+    "orientacion": "Hidráulico",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN GESTIÓN INTEGRAL DE RECURSOS HÍDRICOS",
+      "direccion": "Gestión Pública - A DISTANCIA",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tunuyán",
+    "escuela": "4203 – COLONIA LAS ROSAS",
+    "orientacion": "Hidráulico",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "San Carlos",
+    "escuela": "4123 – INTEGRACIÓN",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "San Carlos",
+    "escuela": "4123 – INTEGRACIÓN",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "San Carlos",
+    "escuela": "4193 – MARÍA LUISA PÁSCOLO DE BANDIERA",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "San Carlos",
+    "escuela": "4193 – MARÍA LUISA PÁSCOLO DE BANDIERA",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "San Carlos",
+    "escuela": "4211 – MAESTRO ÁNGEL OSCAR FUNES",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "San Carlos",
+    "escuela": "4211 – MAESTRO ÁNGEL OSCAR FUNES",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tupungato",
+    "escuela": "4122 – REPÚBLICA ITALIANA",
+    "orientacion": "Químico",
+    "resultado": {
+      "ies": "9009 TUPUNGATO",
+      "tecnicatura": "TEC SUP EN PETRÓLEO Y GAS",
+      "direccion": "Sede Central - Tupungato",
+      "web": "https://ies9009-infd.mendoza.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tupungato",
+    "escuela": "4122 – REPÚBLICA ITALIANA",
+    "orientacion": "Químico",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tupungato",
+    "escuela": "4122 – REPÚBLICA ITALIANA",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tupungato",
+    "escuela": "4122 – REPÚBLICA ITALIANA",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tupungato",
+    "escuela": "4212 – CAMILO CARBALLO",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9009 TUPUNGATO",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Central - Tupungato",
+      "web": "https://ies9009-infd.mendoza.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Valle de Uco",
+    "departamento": "Tupungato",
+    "escuela": "4212 – CAMILO CARBALLO",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9009 TUPUNGATO",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Sede Central - Tupungato",
+      "web": "https://ies9009-infd.mendoza.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4015 – SEIZO HOSHI",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4015 – SEIZO HOSHI",
+    "orientacion": "Agropecuaria - Tec de la Madera",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4043 – ANTONIO DI BENEDETTO",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4197 – ING. AGR. JULIO C. GATICA",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4198 – FRANCISCO GARCÍA",
+    "orientacion": "Agropecuaria - Pecuaria",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4239 – CERRO EL SOSNEADO",
+    "orientacion": "Agropecuaria - Pecuaria",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4246 – EL CERRITO",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4004 – MERCEDES ÁLVAREZ DE SEGURA",
+    "orientacion": "Alimentos (ETP)",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4004 – MERCEDES ÁLVAREZ DE SEGURA",
+    "orientacion": "Indumentaria Textil",
+    "resultado": {
+      "ies": "IES ALVEAR",
+      "tecnicatura": "TEC SUP EN DISEÑO DE INDUMENTARIA, TEXTIL Y ACCESORIOS",
+      "direccion": "Gestión Privada - Tricerri Sur 145, Gral Alvear",
+      "web": "https://idesaugacoop.com.ar/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4006 – PASCUAL IACCARINI",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4006 – PASCUAL IACCARINI",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4017 – BERNARDINO IZUEL",
+    "orientacion": "Industrias de Procesos",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN TECNOLOGÍA BIOMÉDICA",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4021 - MARTÍN GÜEMES",
+    "orientacion": "Agropecuaria - Pecuaria",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4044 – ING. FLORENCIO CASALE",
+    "orientacion": "Químico",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN TECNOLOGÍA BIOMÉDICA",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4044 – ING. FLORENCIO CASALE",
+    "orientacion": "Químico",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4063 – LUIS FEDERICO LELOIR",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4063 – LUIS FEDERICO LELOIR",
+    "orientacion": "Electrónica",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN TECNOLOGÍA BIOMÉDICA",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4114 – MANUEL BELGRANO",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "IES ALVEAR",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Gestión Privada - Tricerri Sur 145, Gral Alvear",
+      "web": "https://idesaugacoop.com.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4114 – MANUEL BELGRANO",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN TECNOLOGÍA BIOMÉDICA",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4114 – MANUEL BELGRANO",
+    "orientacion": "Alimentos (ETP)",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4114 – MANUEL BELGRANO",
+    "orientacion": "Alimentos (ETP)",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN TECNOLOGÍA BIOMÉDICA",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4116 – JUAN PABLO II",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "IES ALVEAR",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Gestión Privada - Tricerri Sur 145, Gral Alvear",
+      "web": "https://idesaugacoop.com.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4116 – JUAN PABLO II",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN TECNOLOGÍA BIOMÉDICA",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4117 – EJÉRCITO DE LOS ANDES",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN TECNOLOGÍA BIOMÉDICA",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4117 – EJÉRCITO DE LOS ANDES",
+    "orientacion": "Construcciones Edilicias",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN CONSTRUCCIONES LIVIANAS INDUSTRIALIZADAS",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-amber-600",
+      "neon": "hover:text-amber-500 hover:drop-shadow-[0_0_8px_rgba(245,158,11,0.8)]",
+      "icono": "Hammer"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4117 – EJÉRCITO DE LOS ANDES",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "IES ALVEAR",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Gestión Privada - Tricerri Sur 145, Gral Alvear",
+      "web": "https://idesaugacoop.com.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4117 – EJÉRCITO DE LOS ANDES",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4124 – REYNALDO MERIN",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN HIGIENE Y SEGURIDAD (acreditación parcial)",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-indigo-500",
+      "neon": "hover:text-indigo-400 hover:drop-shadow-[0_0_8px_rgba(99,102,241,0.8)]",
+      "icono": "Brain"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4124 – REYNALDO MERIN",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN TECNOLOGÍA BIOMÉDICA",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4130 – PROF. JORGE DE LA RETA",
+    "orientacion": "Programación",
+    "resultado": {
+      "ies": "9012 SAN RAFAEL",
+      "tecnicatura": "TEC SUP EN DESARROLLO DE SOFTWARE",
+      "direccion": "Paunero y Ate. Brown - San Rafael",
+      "web": "https://ies9012.edu.ar/sigeaweb/",
+      "color": "text-green-600",
+      "neon": "hover:text-green-500 hover:drop-shadow-[0_0_8px_rgba(22,163,74,0.8)]",
+      "icono": "Code"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "4246 - EL CERRITO",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Esc Iselim - San Rafael",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "San Rafael",
+    "escuela": "E198 - LAS MALVINAS ANEXO",
+    "orientacion": "Agropecuaria - Pecuaria",
+    "resultado": {
+      "ies": "IES ALVEAR",
+      "tecnicatura": "TEC SUP EN BIOTECNOLOGÍA",
+      "direccion": "Gestión Privada - Tricerri Sur 145, Gral Alvear",
+      "web": "https://idesaugacoop.com.ar/",
+      "color": "text-rose-500",
+      "neon": "hover:text-rose-400 hover:drop-shadow-[0_0_8px_rgba(244,63,94,0.8)]",
+      "icono": "HeartPulse"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "General Alvear",
+    "escuela": "4171 – PRECEPTORA HILDA MABEL CORIA",
+    "orientacion": "Agropecuaria - Pecuaria",
+    "resultado": {
+      "ies": "IES ALVEAR",
+      "tecnicatura": "TEC SUP EN BIOTECNOLOGÍA",
+      "direccion": "Gestión Privada - Tricerri Sur 145, Gral Alvear",
+      "web": "https://idesaugacoop.com.ar/",
+      "color": "text-rose-500",
+      "neon": "hover:text-rose-400 hover:drop-shadow-[0_0_8px_rgba(244,63,94,0.8)]",
+      "icono": "HeartPulse"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "General Alvear",
+    "escuela": "4171 – PRECEPTORA HILDA MABEL CORIA",
+    "orientacion": "Agropecuaria - Pecuaria",
+    "resultado": {
+      "ies": "9007 CALAFAT",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "Sede Barraquero - Gral. Alvear",
+      "web": "https://ies9007-infd.mendoza.edu.ar/sitio/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "General Alvear",
+    "escuela": "4105 – ESCUELA TÉCNICA BACHILLER (8105)",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "IES ALVEAR",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Gestión Privada - Tricerri Sur 145, Gral Alvear",
+      "web": "https://idesaugacoop.com.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "General Alvear",
+    "escuela": "4113 – ING. JORGE BARRAQUERO",
+    "orientacion": "Mecánica",
+    "resultado": {
+      "ies": "IES ALVEAR",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Gestión Privada - Tricerri Sur 145, Gral Alvear",
+      "web": "https://idesaugacoop.com.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "General Alvear",
+    "escuela": "4113 – ING. JORGE BARRAQUERO",
+    "orientacion": "Electricidad",
+    "resultado": {
+      "ies": "IES ALVEAR",
+      "tecnicatura": "TEC SUP EN MECATRÓNICA",
+      "direccion": "Gestión Privada - Tricerri Sur 145, Gral Alvear",
+      "web": "https://idesaugacoop.com.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "Malargüe",
+    "escuela": "4191 – DR. DANIEL HUGO PIERINI (Esc. 8191)",
+    "orientacion": "Agropecuaria - Pecuaria",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN VITICULTURA Y ENOLOGÍA",
+      "direccion": "Gestión Pública - A DISTANCIA",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "Malargüe",
+    "escuela": "4227 – GUADALUPE DE LA FRONTERA (Esc. 8227)",
+    "orientacion": "Agropecuaria - Pecuaria",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN VITICULTURA Y ENOLOGÍA",
+      "direccion": "Gestión Pública - A DISTANCIA",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "Malargüe",
+    "escuela": "4228 – INGENIERO EUGENIO IZSAKY",
+    "orientacion": "Electromecánica",
+    "resultado": {
+      "ies": "9018 JAQUE",
+      "tecnicatura": "TEC SUP EN ENERGIAS RENOVABLES",
+      "direccion": "Llancanelo 732, M5613 Malargüe",
+      "web": "https://ies9018malargue.edu.ar/",
+      "color": "text-orange-500",
+      "neon": "hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(249,115,22,0.8)]",
+      "icono": "Sun"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "Malargüe",
+    "escuela": "4018 – GRAL. MANUEL NICOLÁS SAVIO",
+    "orientacion": "Industrias de Procesos",
+    "resultado": {
+      "ies": "9018 JAQUE",
+      "tecnicatura": "TEC SUP EN PETRÓLEO Y GAS",
+      "direccion": "Llancanelo 732, M5613 Malargüe",
+      "web": "https://ies9018malargue.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Sur",
+    "departamento": "Malargüe",
+    "escuela": "4018 – GRAL. MANUEL NICOLÁS SAVIO",
+    "orientacion": "Minero",
+    "resultado": {
+      "ies": "9018 JAQUE",
+      "tecnicatura": "TEC SUP EN MINERÍA",
+      "direccion": "Llancanelo 732, M5613 Malargüe",
+      "web": "https://ies9018malargue.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Norte",
+    "departamento": "Lavalle",
+    "escuela": "4026 – JUAN BAUTISTA ALBERDI",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9024 LAVALLE",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "M. Moreno y A. Fleming, Villa Tulumaya, Lavalle",
+      "web": "https://ies9024-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Norte",
+    "departamento": "Lavalle",
+    "escuela": "4026 – JUAN BAUTISTA ALBERDI",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN VITICULTURA Y ENOLOGÍA",
+      "direccion": "Gestión Pública - A DISTANCIA",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Norte",
+    "departamento": "Lavalle",
+    "escuela": "4160 – TITO FRANCIA",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9024 LAVALLE",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "M. Moreno y A. Fleming, Villa Tulumaya, Lavalle",
+      "web": "https://ies9024-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Norte",
+    "departamento": "Lavalle",
+    "escuela": "4160 – TITO FRANCIA",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN VITICULTURA Y ENOLOGÍA",
+      "direccion": "Gestión Pública - A DISTANCIA",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Norte",
+    "departamento": "Lavalle",
+    "escuela": "4161 – JOSÉ MIGUEL GRANEROS",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9024 LAVALLE",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "M. Moreno y A. Fleming, Villa Tulumaya, Lavalle",
+      "web": "https://ies9024-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Norte",
+    "departamento": "Lavalle",
+    "escuela": "4161 – JOSÉ MIGUEL GRANEROS",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN VITICULTURA Y ENOLOGÍA",
+      "direccion": "Gestión Pública - A DISTANCIA",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Norte",
+    "departamento": "Lavalle",
+    "escuela": "4185 – ELENA ELVIRA IMAZIO DE CAVAGNOLA",
+    "orientacion": "Alimentos (ETP)",
+    "resultado": {
+      "ies": "9024 LAVALLE",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "M. Moreno y A. Fleming, Villa Tulumaya, Lavalle",
+      "web": "https://ies9024-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "La Paz",
+    "escuela": "4034 – GALILEO VITALI",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN VITICULTURA Y ENOLOGÍA",
+      "direccion": "Gestión Pública - A DISTANCIA",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "La Paz",
+    "escuela": "4034 – GALILEO VITALI",
+    "orientacion": "Agropecuaria - Enología",
+    "resultado": {
+      "ies": "9028 PROF. E. QUIROGA",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Sta. Rosa y 7 de Diciembre, M5596 Santa Rosa",
+      "web": "https://ies9028-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "La Paz",
+    "escuela": "4034 – GALILEO VITALI",
+    "orientacion": "Agropecuaria - Pecuaria",
+    "resultado": {
+      "ies": "9028 PROF. E. QUIROGA",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Sta. Rosa y 7 de Diciembre, M5596 Santa Rosa",
+      "web": "https://ies9028-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "La Paz",
+    "escuela": "4034 – GALILEO VITALI",
+    "orientacion": "Agropecuaria - Pecuaria",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN VITICULTURA Y ENOLOGÍA",
+      "direccion": "Gestión Pública - A DISTANCIA",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "La Paz",
+    "escuela": "4182 – AIDA FONT (Esc. 8182)",
+    "orientacion": "Agropecuaria - Pecuaria",
+    "resultado": {
+      "ies": "9028 PROF. E. QUIROGA",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Sta. Rosa y 7 de Diciembre, M5596 Santa Rosa",
+      "web": "https://ies9028-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "La Paz",
+    "escuela": "4182 – AIDA FONT (Esc. 8182)",
+    "orientacion": "Agropecuaria - Pecuaria",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN VITICULTURA Y ENOLOGÍA",
+      "direccion": "Gestión Pública - A DISTANCIA",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Santa Rosa",
+    "escuela": "4081 – ING. FRANCISCO MARTÍN CROCE",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9015 IESVU",
+      "tecnicatura": "TEC SUP EN AGRONOMÍA",
+      "direccion": "San Martín Norte 418 - La Consulta, San Carlos",
+      "web": "https://iesvu.edu.ar/",
+      "color": "text-blue-500",
+      "neon": "hover:text-blue-400 hover:drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]",
+      "icono": "Star"
+    }
+  },
+  {
+    "region": "Zona Este",
+    "departamento": "Santa Rosa",
+    "escuela": "4081 – ING. FRANCISCO MARTÍN CROCE",
+    "orientacion": "Agropecuaria - Frutihortícola",
+    "resultado": {
+      "ies": "9028 PROF. E. QUIROGA",
+      "tecnicatura": "TEC SUP EN ENOLOGÍA E INDUSTRIAS DE LOS ALIMENTOS",
+      "direccion": "Sta. Rosa y 7 de Diciembre, M5596 Santa Rosa",
+      "web": "https://ies9028-infd.mendoza.edu.ar/sitio/",
+      "color": "text-purple-500",
+      "neon": "hover:text-purple-400 hover:drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]",
+      "icono": "Wine"
+    }
+  }
+]
