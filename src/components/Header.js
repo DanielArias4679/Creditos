@@ -68,7 +68,7 @@ const Header = ({ onOpenConsulta }) => {
               </motion.div>
 
               <div className="absolute left-1/2 transform -translate-x-1/2">
-                <img src="https://utfs.io/f/2vMRHqOYUHc0q54DwKvUMgOfLW4S62w7etx01aYAN8bRycsz" alt="Logo Central" className="h-12" />
+                <img src="https://utfs.io/f/2vMRHqOYUHc0q54DwKvUMgOfLW4S62w7etx01aYAN8bRycsz" alt="Logo Central" className="hidden sm:inline lg:h-10 sm:h-6" />
               </div>
 
               <div className="flex items-center gap-4">
