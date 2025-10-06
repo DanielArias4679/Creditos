@@ -118,10 +118,7 @@ const Normativa = () => {
                 <p className={`leading-relaxed italic ${
                   isDark ? 'text-gray-300' : 'text-gray-700'
                 }`}>
-                  "Se establece el sistema de reconocimiento de saberes y acreditación de espacios curriculares 
-                  para estudiantes egresados de escuelas técnicas que ingresen a tecnicaturas superiores de la 
-                  misma familia profesional, permitiendo la acreditación de hasta el cuarenta por ciento (40%) 
-                  de los espacios curriculares de primer año..."
+                  "Apruébese el Programa de reconocimiento de créditos para un sistema educativo flexible, innovador y articulado, que articula las familias, sectores y perfiles profesionales de la Educación Técnico Profesional (ETP) de los niveles Secundario y Superior."
                 </p>
               </div>
 

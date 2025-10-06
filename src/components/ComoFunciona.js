@@ -58,13 +58,13 @@ const ComoFunciona = () => {
     },
     {
       tipo: 'Acreditación parcial',
-      descripcion: 'Reconocimiento de espacios de 1º año → menos cursado',
+      descripcion: 'Reconocimiento de algunos espacios de primer año. Ahorras tiempo de cursado',
       icono: '⭐',
       color: 'from-yellow-500 to-amber-500'
     },
     {
-      tipo: 'No acreditar',
-      descripcion: 'Cursás 1º año completo, mejor preparado',
+      tipo: 'Sin acreditar',
+      descripcion: 'Iniciás el cursado desde 1° año, mejor preparado',
       icono: '📚',
       color: 'from-indigo-500 to-blue-500'
     }
